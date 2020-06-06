@@ -43,7 +43,7 @@ text-align: center;
     padding: 10px;
 }
 
-table, th, t{
+table, th{
     padding: 5px;
     border: 1px solid black;
 }
